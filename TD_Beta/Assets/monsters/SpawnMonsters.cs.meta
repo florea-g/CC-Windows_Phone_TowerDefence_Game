@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7328d3b04921e0d4ea33b1c8e4a171ba
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - Player: {instanceID: 0}
+  - texture_right: {fileID: 2800000, guid: 6b044e2a847c3964c9be639b9d561b1c, type: 3}
+  - texture_left: {fileID: 2800000, guid: 395d6667dfb4ce144882e193fc58f223, type: 3}
+  - texture_canon: {instanceID: 0}
+  - texture_turet: {instanceID: 0}
+  - skin: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

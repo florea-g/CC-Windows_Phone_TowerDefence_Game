@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: d30520f6fd5e95c4f8df9f10b2d1e396
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - rear_cam: {instanceID: 0}
+  - right_cam: {instanceID: 0}
+  - cam: {fileID: 2800000, guid: 395d6667dfb4ce144882e193fc58f223, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

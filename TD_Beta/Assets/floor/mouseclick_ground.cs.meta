@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 835b9c847273420478ad706ebf234881
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - skin2: {fileID: 11400000, guid: a27c23f92fa231f478ba4a3fa6532a42, type: 2}
+  - mouse_t: {instanceID: 0}
+  - mouse_t2: {instanceID: 0}
+  - gold: {instanceID: 0}
+  - turette: {instanceID: 0}
+  - turette2: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
